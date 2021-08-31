@@ -11,11 +11,11 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+# *.jar
 *.war
 *.nar
 *.ear
-*.zip
+# *.zip
 *.tar.gz
 *.rar
 
@@ -23,7 +23,7 @@
 hs_err_pid*
 
 # build folders
-bin/
+# bin/
 target/
 nbproject/private/
 build/
@@ -33,7 +33,7 @@ nbdist/
 
 
 .metadata
-bin/
+# bin/
 tmp/
 *.tmp
 *.bak
