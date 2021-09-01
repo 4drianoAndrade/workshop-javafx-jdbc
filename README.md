@@ -2,6 +2,8 @@
 
 Projeto acadêmico.
 
+![myApp.gif](https://github.com/adrianoand95/workshop-javafx-jdbc/blob/main/myApp/System/myApp.gif)
+
 ## Criação e instanciação da base de dados
 
 ```sql
